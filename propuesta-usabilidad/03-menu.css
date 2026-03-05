@@ -1,0 +1,5 @@
+.filtro { max-width: 20rem; }
+.menu-card { border-radius: 1rem; border: 1px solid #e5e7eb; }
+.menu-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,.1); }
+.menu-card img { aspect-ratio: 16/10; object-fit: cover; }
+.precio { font-size: 1.125rem; font-weight: 700; color: #b31217; }

@@ -1,0 +1,6 @@
+.branch-card {
+  border: 1px solid #e5e7eb;
+  border-radius: .85rem;
+  background: #fff;
+}
+.branch-card:focus-within { box-shadow: 0 0 0 3px #93c5fd; }

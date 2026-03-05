@@ -1,0 +1,3 @@
+.carousel-item img { object-fit: cover; max-height: 28rem; }
+.carousel-control-prev-icon,
+.carousel-control-next-icon { filter: drop-shadow(0 0 4px rgba(0,0,0,.7)); }
